@@ -103,7 +103,7 @@ To build consistency in learning, document progress, and develop practical machi
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author Waseef Ullah
 
 Self-learning Machine Learning student focused on building strong fundamentals and transitioning into advanced AI systems.
 
